@@ -14,3 +14,14 @@ header {
 .card-header {
     font-weight: bold;
 }
+
+.card-body button{
+    background-color: #ffffff;
+    color: #000;
+    border: 0px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
