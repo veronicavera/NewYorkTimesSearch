@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: #20315a;
+    color: #ffffff;
+    border-radius: 3px;
+    margin: 0px 10px 100px 10px;
+}
+
+.card {
+    margin: 0px 10px 0px 10px;
+}
+
+.card-header {
+    font-weight: bold;
+}
